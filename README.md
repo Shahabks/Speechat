@@ -5,5 +5,5 @@ By using an ASR engine, it scripts the speech and sends to a language model for 
 
 For further informtion 
 
-[link] https://github.com/Shahabks/my-voice-analysis
-[link] https://github.com/Shahabks/myprosody
+https://github.com/Shahabks/my-voice-analysis
+https://github.com/Shahabks/myprosody
