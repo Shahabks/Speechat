@@ -8,3 +8,6 @@ For further informtion
 https://github.com/Shahabks/my-voice-analysis
 
 https://github.com/Shahabks/myprosody
+
+I just uploaded a folder in which there are some saved labeled datasets + already-trained models + two file are written/coded in praat (*.praat) that you need when you run the python file for training new models. .... also all my experiments
+As far as the python libraries are concerned, except "parselmouth" other libraries are standard python libraries. Parselmouth can be installed by pip (https://parselmouth.readthedocs.io/en/docs/examples.html more information).
