@@ -1,3 +1,6 @@
+[![GitHub stars](https://img.shields.io/github/stars/Shahabks/Speechat?style=flat-square)](https://github.com/Shahabks/Speechat/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Shahabks/Speechat?style=flat-square&color=blueviolet)](https://github.com/Shahabks/Speechat/network/members)
+
 # Speechat
 ## Spoken Language assessment
 It takes either real-time streams of speech or a recorded speech and extracts the prosody features, does features engineering, building dataset. The dataset is then plugged in the ML algorithms to predict intonations, prosody, stress, and structures of the spoken language.
